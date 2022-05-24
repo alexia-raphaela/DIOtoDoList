@@ -1,0 +1,15 @@
+#textArea {
+    border-radius: 5px;
+    height: 23px;
+}
+
+button {
+    height: 30px;
+    background-color: #7FFFD4;
+    border-radius: 5px;
+}
+
+#lista {
+    display: flex;
+    flex-direction: column;
+}
